@@ -4,7 +4,7 @@
 \name{minidplyr-package}
 \alias{minidplyr}
 \alias{minidplyr-package}
-\title{minidplyr: What the Package Does (One Line, Title Case)}
+\title{minidplyr: miniplyr: is a smaller version of dplyr}
 \description{
 What the package does (one paragraph).
 }
