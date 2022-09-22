@@ -1,5 +1,5 @@
 Package: minidplyr
-Title: What the Package Does (One Line, Title Case)
+Title: miniplyr: is a smaller version of dplyr
 Version: 0.0.1
 Authors@R: 
     person(given = "Christoffer Trier", family = "Maansson", , email = "ctm@clin.au.dk", role = c("aut", "cre"),
@@ -9,3 +9,6 @@ License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
