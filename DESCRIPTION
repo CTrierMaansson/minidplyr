@@ -1,0 +1,11 @@
+Package: minidplyr
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "Christoffer Trier", family = "Maansson", , email = "ctm@clin.au.dk", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-3071-3437"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
